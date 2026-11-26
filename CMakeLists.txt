@@ -1,9 +1,19 @@
 cmake_minimum_required(VERSION 3.25)
 project(PandOSdisk LANGUAGES C ASM)
 
-set(XT_PRG_PREFIX riscv64-unknown-elf-)
+find_program(RISCV_ELF_GCC riscv64-elf-gcc)
+
+if(RISCV_ELF_GCC)
+    set(XT_PRG_PREFIX riscv64-elf-)
+else()
+    set(XT_PRG_PREFIX riscv64-unknown-elf-)
+endif()
 set(URISCV_SRC /usr/local/share/uriscv)
-set(URISCV_INC /usr/include)
+if(EXISTS /usr/local/include/uriscv)
+    set(URISCV_INC /usr/local/include)
+else()
+    set(URISCV_INC /usr/include)
+endif()
 
 set(CMAKE_C_COMPILER ${XT_PRG_PREFIX}gcc)
 set(CMAKE_ASM_COMPILER ${XT_PRG_PREFIX}gcc)
