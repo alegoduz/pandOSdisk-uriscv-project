@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/andreamanzo/Documents/school-stuff/uni/appunti/anno-2/sistemi/progetto/starterKit/build",
+  "command": "riscv64-unknown-elf-gcc   -ffreestanding -static -nostartfiles -nostdlib -I/usr/include -ggdb -Wall -O0 -std=gnu99 -march=rv32imafd -mabi=ilp32d -o CMakeFiles/PandOSdisk.dir/klog.c.o -c /home/andreamanzo/Documents/school-stuff/uni/appunti/anno-2/sistemi/progetto/starterKit/klog.c",
+  "file": "/home/andreamanzo/Documents/school-stuff/uni/appunti/anno-2/sistemi/progetto/starterKit/klog.c",
+  "output": "CMakeFiles/PandOSdisk.dir/klog.c.o"
+},
+{
+  "directory": "/home/andreamanzo/Documents/school-stuff/uni/appunti/anno-2/sistemi/progetto/starterKit/build",
+  "command": "riscv64-unknown-elf-gcc   -ffreestanding -static -nostartfiles -nostdlib -I/usr/include -ggdb -Wall -O0 -std=gnu99 -march=rv32imafd -mabi=ilp32d -o CMakeFiles/PandOSdisk.dir/phase1/pcb.c.o -c /home/andreamanzo/Documents/school-stuff/uni/appunti/anno-2/sistemi/progetto/starterKit/phase1/pcb.c",
+  "file": "/home/andreamanzo/Documents/school-stuff/uni/appunti/anno-2/sistemi/progetto/starterKit/phase1/pcb.c",
+  "output": "CMakeFiles/PandOSdisk.dir/phase1/pcb.c.o"
+},
+{
+  "directory": "/home/andreamanzo/Documents/school-stuff/uni/appunti/anno-2/sistemi/progetto/starterKit/build",
+  "command": "riscv64-unknown-elf-gcc   -ffreestanding -static -nostartfiles -nostdlib -I/usr/include -ggdb -Wall -O0 -std=gnu99 -march=rv32imafd -mabi=ilp32d -o CMakeFiles/PandOSdisk.dir/phase1/asl.c.o -c /home/andreamanzo/Documents/school-stuff/uni/appunti/anno-2/sistemi/progetto/starterKit/phase1/asl.c",
+  "file": "/home/andreamanzo/Documents/school-stuff/uni/appunti/anno-2/sistemi/progetto/starterKit/phase1/asl.c",
+  "output": "CMakeFiles/PandOSdisk.dir/phase1/asl.c.o"
+},
+{
+  "directory": "/home/andreamanzo/Documents/school-stuff/uni/appunti/anno-2/sistemi/progetto/starterKit/build",
+  "command": "riscv64-unknown-elf-gcc   -ffreestanding -static -nostartfiles -nostdlib -I/usr/include -ggdb -Wall -O0 -std=gnu99 -march=rv32imafd -mabi=ilp32d -o CMakeFiles/PandOSdisk.dir/phase1/p1test.c.o -c /home/andreamanzo/Documents/school-stuff/uni/appunti/anno-2/sistemi/progetto/starterKit/phase1/p1test.c",
+  "file": "/home/andreamanzo/Documents/school-stuff/uni/appunti/anno-2/sistemi/progetto/starterKit/phase1/p1test.c",
+  "output": "CMakeFiles/PandOSdisk.dir/phase1/p1test.c.o"
+},
+{
+  "directory": "/home/andreamanzo/Documents/school-stuff/uni/appunti/anno-2/sistemi/progetto/starterKit/build",
+  "command": "riscv64-unknown-elf-gcc   -ffreestanding -static -nostartfiles -nostdlib -I/usr/include -ggdb -Wall -O0 -std=gnu99 -march=rv32imafd -mabi=ilp32d -o CMakeFiles/PandOSdisk.dir/usr/local/share/uriscv/crtso.S.o -c /usr/local/share/uriscv/crtso.S",
+  "file": "/usr/local/share/uriscv/crtso.S",
+  "output": "CMakeFiles/PandOSdisk.dir/usr/local/share/uriscv/crtso.S.o"
+},
+{
+  "directory": "/home/andreamanzo/Documents/school-stuff/uni/appunti/anno-2/sistemi/progetto/starterKit/build",
+  "command": "riscv64-unknown-elf-gcc   -ffreestanding -static -nostartfiles -nostdlib -I/usr/include -ggdb -Wall -O0 -std=gnu99 -march=rv32imafd -mabi=ilp32d -o CMakeFiles/PandOSdisk.dir/usr/local/share/uriscv/liburiscv.S.o -c /usr/local/share/uriscv/liburiscv.S",
+  "file": "/usr/local/share/uriscv/liburiscv.S",
+  "output": "CMakeFiles/PandOSdisk.dir/usr/local/share/uriscv/liburiscv.S.o"
+}
+]
