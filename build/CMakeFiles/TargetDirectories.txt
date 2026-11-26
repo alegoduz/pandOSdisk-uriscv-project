@@ -1,4 +1,0 @@
-/home/andreamanzo/Documents/school-stuff/uni/appunti/anno-2/sistemi/progetto/starterKit/build/CMakeFiles/PandOSdisk.dir
-/home/andreamanzo/Documents/school-stuff/uni/appunti/anno-2/sistemi/progetto/starterKit/build/CMakeFiles/PandOSdiskuRISCV.dir
-/home/andreamanzo/Documents/school-stuff/uni/appunti/anno-2/sistemi/progetto/starterKit/build/CMakeFiles/edit_cache.dir
-/home/andreamanzo/Documents/school-stuff/uni/appunti/anno-2/sistemi/progetto/starterKit/build/CMakeFiles/rebuild_cache.dir
